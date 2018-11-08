@@ -3,7 +3,3 @@ Linus Benedict Torvalds is a Finnish–American software engineer who is the cre
 
 quotes:
 Talk is cheap. Show me the code.
-
-Software is like sex: it's better when it's free.
-
-Intelligence is the ability to avoid doing work, yet getting the work done.
